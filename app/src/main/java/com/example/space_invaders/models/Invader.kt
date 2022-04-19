@@ -5,7 +5,6 @@ import android.graphics.Bitmap
 import android.graphics.RectF
 import java.util.*
 import android.graphics.BitmapFactory
-import com.example.space_invaders.R
 
 class Invader(context: Context, row: Int, column: Int, screenX: Int, screenY: Int) {
     var width = screenX / 35f

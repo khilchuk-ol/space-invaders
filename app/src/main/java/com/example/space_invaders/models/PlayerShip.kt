@@ -4,7 +4,6 @@ import android.content.Context
 import android.graphics.Bitmap
 import android.graphics.RectF
 import android.graphics.BitmapFactory
-import com.example.space_invaders.R
 
 class PlayerShip(
     context: Context,

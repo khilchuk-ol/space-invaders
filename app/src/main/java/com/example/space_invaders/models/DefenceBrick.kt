@@ -2,7 +2,6 @@ package com.example.space_invaders.models
 
 import android.graphics.RectF
 
-
 class DefenceBrick(row: Int, column: Int, shelterNumber: Int, screenX: Int, screenY: Int) {
 
     var isVisible = true

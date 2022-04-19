@@ -3,7 +3,6 @@ package com.example.space_invaders.models
 import android.content.Context
 import android.content.res.AssetFileDescriptor
 import android.media.AudioAttributes
-import android.media.AudioManager
 import android.media.SoundPool
 import android.util.Log
 import java.io.IOException
